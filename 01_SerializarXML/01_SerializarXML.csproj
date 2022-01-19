@@ -50,8 +50,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\sadsa\00_Biblioteca.csproj">
-      <Project>{f1e0d2c8-6a4f-49ec-ac9e-d7ef10c91c7c}</Project>
+    <ProjectReference Include="..\ClassLibrary1\00_Biblioteca.csproj">
+      <Project>{36f383ec-d929-436f-a01c-55d651f459e2}</Project>
       <Name>00_Biblioteca</Name>
     </ProjectReference>
   </ItemGroup>

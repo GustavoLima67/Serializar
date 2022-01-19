@@ -1,0 +1,6 @@
+C:\Users\Gustavo\source\repos\01-Serializar-Deserializar\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Gustavo\source\repos\01-Serializar-Deserializar\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Gustavo\source\repos\01-Serializar-Deserializar\ClassLibrary1\obj\Debug\00_Biblioteca.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\01-Serializar-Deserializar\ClassLibrary1\obj\Debug\00_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\01-Serializar-Deserializar\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Gustavo\source\repos\01-Serializar-Deserializar\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace sadsa
+namespace _00_Biblioteca
 {
     public class Usuario
     {
-        private string name { get; set; }
-        private string cpf { get; set; }
-        private string email { get; set; }
+        public string Nome { get; set; }
+        public string CPF { get; set; }
+        public string Email { get; set; }
+        
     }
 }
